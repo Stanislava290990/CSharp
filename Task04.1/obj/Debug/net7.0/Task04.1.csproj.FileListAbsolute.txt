@@ -1,0 +1,15 @@
+C:\Users\Станислава\Desktop\01.08.2023\Task04.1\bin\Debug\net7.0\Task04.1.exe
+C:\Users\Станислава\Desktop\01.08.2023\Task04.1\bin\Debug\net7.0\Task04.1.deps.json
+C:\Users\Станислава\Desktop\01.08.2023\Task04.1\bin\Debug\net7.0\Task04.1.runtimeconfig.json
+C:\Users\Станислава\Desktop\01.08.2023\Task04.1\bin\Debug\net7.0\Task04.1.dll
+C:\Users\Станислава\Desktop\01.08.2023\Task04.1\bin\Debug\net7.0\Task04.1.pdb
+C:\Users\Станислава\Desktop\01.08.2023\Task04.1\obj\Debug\net7.0\Task04.1.csproj.AssemblyReference.cache
+C:\Users\Станислава\Desktop\01.08.2023\Task04.1\obj\Debug\net7.0\Task04.1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Станислава\Desktop\01.08.2023\Task04.1\obj\Debug\net7.0\Task04.1.AssemblyInfoInputs.cache
+C:\Users\Станислава\Desktop\01.08.2023\Task04.1\obj\Debug\net7.0\Task04.1.AssemblyInfo.cs
+C:\Users\Станислава\Desktop\01.08.2023\Task04.1\obj\Debug\net7.0\Task04.1.csproj.CoreCompileInputs.cache
+C:\Users\Станислава\Desktop\01.08.2023\Task04.1\obj\Debug\net7.0\Task04.1.dll
+C:\Users\Станислава\Desktop\01.08.2023\Task04.1\obj\Debug\net7.0\refint\Task04.1.dll
+C:\Users\Станислава\Desktop\01.08.2023\Task04.1\obj\Debug\net7.0\Task04.1.pdb
+C:\Users\Станислава\Desktop\01.08.2023\Task04.1\obj\Debug\net7.0\Task04.1.genruntimeconfig.cache
+C:\Users\Станислава\Desktop\01.08.2023\Task04.1\obj\Debug\net7.0\ref\Task04.1.dll
