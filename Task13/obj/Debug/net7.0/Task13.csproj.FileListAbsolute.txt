@@ -1,0 +1,5 @@
+C:\Users\Станислава\Desktop\01.08.2023\Task13\obj\Debug\net7.0\Task13.csproj.AssemblyReference.cache
+C:\Users\Станислава\Desktop\01.08.2023\Task13\obj\Debug\net7.0\Task13.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Станислава\Desktop\01.08.2023\Task13\obj\Debug\net7.0\Task13.AssemblyInfoInputs.cache
+C:\Users\Станислава\Desktop\01.08.2023\Task13\obj\Debug\net7.0\Task13.AssemblyInfo.cs
+C:\Users\Станислава\Desktop\01.08.2023\Task13\obj\Debug\net7.0\Task13.csproj.CoreCompileInputs.cache
