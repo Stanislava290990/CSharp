@@ -1,0 +1,15 @@
+C:\Users\Станислава\Desktop\01.08.2023\Task22\obj\Debug\net7.0\Task22.csproj.AssemblyReference.cache
+C:\Users\Станислава\Desktop\01.08.2023\Task22\obj\Debug\net7.0\Task22.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Станислава\Desktop\01.08.2023\Task22\obj\Debug\net7.0\Task22.AssemblyInfoInputs.cache
+C:\Users\Станислава\Desktop\01.08.2023\Task22\obj\Debug\net7.0\Task22.AssemblyInfo.cs
+C:\Users\Станислава\Desktop\01.08.2023\Task22\obj\Debug\net7.0\Task22.csproj.CoreCompileInputs.cache
+C:\Users\Станислава\Desktop\01.08.2023\Task22\bin\Debug\net7.0\Task22.exe
+C:\Users\Станислава\Desktop\01.08.2023\Task22\bin\Debug\net7.0\Task22.deps.json
+C:\Users\Станислава\Desktop\01.08.2023\Task22\bin\Debug\net7.0\Task22.runtimeconfig.json
+C:\Users\Станислава\Desktop\01.08.2023\Task22\bin\Debug\net7.0\Task22.dll
+C:\Users\Станислава\Desktop\01.08.2023\Task22\bin\Debug\net7.0\Task22.pdb
+C:\Users\Станислава\Desktop\01.08.2023\Task22\obj\Debug\net7.0\Task22.dll
+C:\Users\Станислава\Desktop\01.08.2023\Task22\obj\Debug\net7.0\refint\Task22.dll
+C:\Users\Станислава\Desktop\01.08.2023\Task22\obj\Debug\net7.0\Task22.pdb
+C:\Users\Станислава\Desktop\01.08.2023\Task22\obj\Debug\net7.0\Task22.genruntimeconfig.cache
+C:\Users\Станислава\Desktop\01.08.2023\Task22\obj\Debug\net7.0\ref\Task22.dll
