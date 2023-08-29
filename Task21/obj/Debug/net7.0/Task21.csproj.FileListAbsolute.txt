@@ -1,0 +1,15 @@
+C:\Users\Станислава\Desktop\01.08.2023\Task21\bin\Debug\net7.0\Task21.exe
+C:\Users\Станислава\Desktop\01.08.2023\Task21\bin\Debug\net7.0\Task21.deps.json
+C:\Users\Станислава\Desktop\01.08.2023\Task21\bin\Debug\net7.0\Task21.runtimeconfig.json
+C:\Users\Станислава\Desktop\01.08.2023\Task21\bin\Debug\net7.0\Task21.dll
+C:\Users\Станислава\Desktop\01.08.2023\Task21\bin\Debug\net7.0\Task21.pdb
+C:\Users\Станислава\Desktop\01.08.2023\Task21\obj\Debug\net7.0\Task21.csproj.AssemblyReference.cache
+C:\Users\Станислава\Desktop\01.08.2023\Task21\obj\Debug\net7.0\Task21.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Станислава\Desktop\01.08.2023\Task21\obj\Debug\net7.0\Task21.AssemblyInfoInputs.cache
+C:\Users\Станислава\Desktop\01.08.2023\Task21\obj\Debug\net7.0\Task21.AssemblyInfo.cs
+C:\Users\Станислава\Desktop\01.08.2023\Task21\obj\Debug\net7.0\Task21.csproj.CoreCompileInputs.cache
+C:\Users\Станислава\Desktop\01.08.2023\Task21\obj\Debug\net7.0\Task21.dll
+C:\Users\Станислава\Desktop\01.08.2023\Task21\obj\Debug\net7.0\refint\Task21.dll
+C:\Users\Станислава\Desktop\01.08.2023\Task21\obj\Debug\net7.0\Task21.pdb
+C:\Users\Станислава\Desktop\01.08.2023\Task21\obj\Debug\net7.0\Task21.genruntimeconfig.cache
+C:\Users\Станислава\Desktop\01.08.2023\Task21\obj\Debug\net7.0\ref\Task21.dll
