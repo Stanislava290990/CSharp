@@ -1,0 +1,15 @@
+C:\Users\Станислава\Desktop\01.08.2023\01.08.2023(2)\Task65\obj\Debug\net7.0\Task65.csproj.AssemblyReference.cache
+C:\Users\Станислава\Desktop\01.08.2023\01.08.2023(2)\Task65\obj\Debug\net7.0\Task65.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Станислава\Desktop\01.08.2023\01.08.2023(2)\Task65\obj\Debug\net7.0\Task65.AssemblyInfoInputs.cache
+C:\Users\Станислава\Desktop\01.08.2023\01.08.2023(2)\Task65\obj\Debug\net7.0\Task65.AssemblyInfo.cs
+C:\Users\Станислава\Desktop\01.08.2023\01.08.2023(2)\Task65\obj\Debug\net7.0\Task65.csproj.CoreCompileInputs.cache
+C:\Users\Станислава\Desktop\01.08.2023\01.08.2023(2)\Task65\bin\Debug\net7.0\Task65.exe
+C:\Users\Станислава\Desktop\01.08.2023\01.08.2023(2)\Task65\bin\Debug\net7.0\Task65.deps.json
+C:\Users\Станислава\Desktop\01.08.2023\01.08.2023(2)\Task65\bin\Debug\net7.0\Task65.runtimeconfig.json
+C:\Users\Станислава\Desktop\01.08.2023\01.08.2023(2)\Task65\bin\Debug\net7.0\Task65.dll
+C:\Users\Станислава\Desktop\01.08.2023\01.08.2023(2)\Task65\bin\Debug\net7.0\Task65.pdb
+C:\Users\Станислава\Desktop\01.08.2023\01.08.2023(2)\Task65\obj\Debug\net7.0\Task65.dll
+C:\Users\Станислава\Desktop\01.08.2023\01.08.2023(2)\Task65\obj\Debug\net7.0\refint\Task65.dll
+C:\Users\Станислава\Desktop\01.08.2023\01.08.2023(2)\Task65\obj\Debug\net7.0\Task65.pdb
+C:\Users\Станислава\Desktop\01.08.2023\01.08.2023(2)\Task65\obj\Debug\net7.0\Task65.genruntimeconfig.cache
+C:\Users\Станислава\Desktop\01.08.2023\01.08.2023(2)\Task65\obj\Debug\net7.0\ref\Task65.dll
